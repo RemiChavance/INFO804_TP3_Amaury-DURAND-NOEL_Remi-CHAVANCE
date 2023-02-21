@@ -1,3 +1,7 @@
+RENDU VIA GITHUB :
+https://github.com/RemiChavance/INFO804_TP3_Amaury-DURAND-NOEL_Remi-CHAVANCE
+
+
 INFO 804 TP3
 
 Réalisé par 
